@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Maoqiang Jiang"
 name                     : "Maoqiang Jiang"
 email                    : "jiangmq@whut.edu.cn"
-description              : "Professor | CFD, AI, Hydrogen, Deep-sea Mining"
+description              : "Associate Professor | CFD, AI, Hydrogen, Deep-sea Mining"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Maoqiang Jiang"
  
-  bio              : "Professor at Wuhan University of Technology"
+  bio              : "Associate Professor at Wuhan University of Technology"
   location         : "Wuhan, China"
   employer         : "Wuhan University of Technology"
   uri              : # URL
