@@ -9,7 +9,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 ---
 
-## 2026
+## Under Review & Prepared
 - **Side-by-side settling of two large particles with turbulent wakes**  
   **Jiang M.**, Yang S., Zhang Z., Liu Z.  
   *2026* Prepared
@@ -50,25 +50,37 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   Li M., Jiang M., ..., Liu S., Zhang Z., Li G.  
   *Carbon, 2026* Under Review
 
+- **高速可压缩气固欠膨胀射流研究进展**  
+   江茂强  
+  *中国粉体技术, 2026, Under Review*
+
+  ## 2026
+
 - **Active wave turbulence in hexatic phase**  
   Yang Q., Zhang X., Jiang M., ..., Zhu L.  
-  *Physical Review Letters, 2026* Under Review
-  
+  *Physical Review Letters, 2026* 
+  https://journals.aps.org/prl/accepted/10.1103/jq6g-pmq6
+    
 - **Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions**  
-  Zhang D., Li G., Jiang M.  
-  *International Journal of Hydrogen Energy, 2026* Under Review
-  
-- **Artificial Neural Network Framework on Bio-Inspired Petal Shape Fins Along with Nanoparticle-Enhanced Phase Change Material in Thermal Energy System**  
-  Wei C., Hussain M., Jiang M.  Zhang Z., Waqas H., ...
-  *International Communications in Heat and Mass Transfer, 2026* Under Review
+  Zhang D., Li G., Jiang M.*  
+  *International Journal of Hydrogen Energy, 2026, 243: 155616*  
   
 - **Diverging transition pathways to turbulence in regular and random porous media**  
-  Wu J., Zeng J., Liu S., Jiang M.  
-  *Physics of Fluids, 2026*
+  Wu J., Zeng J., Liu S., Jiang M.*  
+  *Physics of Fluids, 2026, 38: 043612*
+  https://doi.org/10.1063/5.0317278
 
 - **Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment**  
-  Zhang D., Li G., Jiang M., Zhang Z.  
-  *International Journal of Hydrogen Energy, 2026*
+  Zhang D., Li G., Jiang M.*, Zhang Z.  
+  *International Journal of Hydrogen Energy, 2026, 236: 155055*
+
+ - **Onboard carbon capture, utilization, and storage**  
+  Wu J., Zhang Y., Jiang M.*, Cao X., Zhang Z.  
+  *Cell Reports Physical Science, 2026, 7(1):103034*
+
+  - **高压氢气泄漏扩散数值仿真模型验证研究**  
+  李格升，范小禹，张丁然，江茂强*  
+  *安全与环境学报, 2026, 26(2): 736 746*
 
 ---
 
@@ -101,10 +113,6 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 - **Numerical study on transient near-field structure of high-pressure hydrogen gas leakage**  
   Zhang D., Li G., Gan X., Jiang M.  
   *International Journal of Hydrogen Energy, 2025*
-
-- **Onboard carbon capture, utilization, and storage**  
-  Wu J., Zhang Y., Jiang M.  
-  *Cell Reports Physical Science, 2025*
 
 - **高长径比生物质圆柱颗粒阻力模型的直接数值模拟研究**  
   Wang J., Jiang M., Fang Q., et al.  
