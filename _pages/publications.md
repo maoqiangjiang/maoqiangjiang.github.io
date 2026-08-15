@@ -49,7 +49,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
   Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***
-   *Journal of Energy Storage, 2026* Under Review
+ *Journal of Energy Storage, 2026* Under Review
   
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
   Minxin Li, **Maoqiang Jiang***, ..., Zunhua Zhang, Gesheng Li  
