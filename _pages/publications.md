@@ -20,7 +20,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   *2026* Prepared
 
   - **The settling of a single large particle near a wall with turbulent wakes**  
-  **Jiang M.***, Yang S., Zhang Z., Liu Z.  
+  Cui X., Han J., **Jiang M.*** 
   *Physics of Fluids, 2026* Prepared
 
  - **Side-by-side settling of two large particles with turbulent wakes**  
@@ -54,6 +54,10 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
   Li M., **Jiang M.**, ..., Liu S., Zhang Z., Li G.  
   *Applied Surface Science, 2026* Under Review
+
+- **径向非均匀层间压力对液氢罐箱变密度多层绝热结构传热性能的影响**  
+   万林峰，周梦妮，**江茂强***  
+  *压力容器, 2026, Under Review*
 
 - **舱室内大规模锂离子电池火灾特性的数值模拟研究**  
    常皓翔，李格升，周梦妮，张尊华，**江茂强***  
