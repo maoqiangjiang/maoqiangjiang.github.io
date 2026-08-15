@@ -19,37 +19,41 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   Tao W., **Jiang M.**
   *2026* Prepared
 
+  - **The settling of a single large particle near a wall with turbulent wakes**  
+  **Jiang M.***, Yang S., Zhang Z., Liu Z.  
+  *Physics of Fluids, 2026* Prepared
+
  - **Side-by-side settling of two large particles with turbulent wakes**  
-  **Jiang M.**, Yang S., Zhang Z., Liu Z.  
-  *2026* Prepared
+  **Jiang M.***, Yang S., Zhang Z., Liu Z.  
+  *Physics of Fluids, 2026* Prepared
         
  - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
-  **Jiang M.**, Zhang D., Fan X., Li G.
+  **Jiang M.***, Zhang D., Fan X., Li G.
   *2026* Prepared
 
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
-  **Jiang M.**, Zeng J., Zhang Z., Liu Z.  
+  **Jiang M.***, Zeng J., Zhang Z., Liu Z.  
   *Journal of Computational Physics, 2026* Prepared
 
  - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
-  Zhang D., Li G., **Jiang M.**
+  Zhang D., Li G., **Jiang M.***
   *International Journal of Hydrogen Energy, 2026* Prepared
 
  - **Revisiting drag force model for particle assemblies and a new model for Reynolds number up to 10000**  
-  Zeng J., Zhang Z., Liu Z., **Jiang M.**
+  Zeng J., Zhang Z., Liu Z., **Jiang M.***
   *Physical Review Fludis, 2026* Under Review
 
  - **Transient settling-speed decline and nonplanar lateral motion of a freely settling sphere at high Reynolds numbers**  
-  Han J., Zeng J., Zhang Z., **Jiang M.**
+  Han J., Zeng J., Zhang Z., **Jiang M.***
   *Physical Review Fludis, 2026* Under Review
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
-  Gan X., Zhang D., **Jiang M.**
+  Gan X., Zhang D., **Jiang M.***
    *Journal of Energy Storage, 2026* Under Review
   
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
-  Li M., Jiang M., ..., Liu S., Zhang Z., Li G.  
-  *Carbon, 2026* Under Review
+  Li M., **Jiang M.**, ..., Liu S., Zhang Z., Li G.  
+  *Applied Surface Science, 2026* Under Review
 
 - **舱室内大规模锂离子电池火灾特性的数值模拟研究**  
    常皓翔，李格升，周梦妮，张尊华，**江茂强***  
