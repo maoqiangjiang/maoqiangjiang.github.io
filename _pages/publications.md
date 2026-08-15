@@ -41,11 +41,11 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
  - **Revisiting drag force model for particle assemblies and a new model for Reynolds number up to 10000**  
   Jingyu Zeng, Zunhua Zhang, Zhaohui Liu, **Maoqiang Jiang***
-  *Physical Review Fludis, 2026* Under Review
+  *Physical Review Fluids, 2026* Under Review
 
  - **Transient settling-speed decline and nonplanar lateral motion of a freely settling sphere at high Reynolds numbers**  
   Jiayuan Han, Jingyu Zeng, Zunhua Zhang, **Maoqiang Jiang***
-  *Physical Review Fludis, 2026* Under Review
+  *Physical Review Fluids, 2026* Under Review
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
   Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***
