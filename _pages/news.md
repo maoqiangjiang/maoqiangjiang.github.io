@@ -10,6 +10,13 @@ permalink: /news/
 
 ## 2026
 
+### 📝 August 4th, 2026
+**Paper published in *Physical Review Letters***  
+PhD student Qianhong Yang's work on Active wave turbulence in hexatic phase has been published. Congraduations!
+
+---
+
+
 ### 📝 May 26th, 2026
 **Paper published in *International Journal of Hydrogen Energy***  
 PhD student Dingran Zhang's work on Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions has been published. Congraduations!
