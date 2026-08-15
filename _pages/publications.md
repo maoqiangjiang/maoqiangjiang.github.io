@@ -29,7 +29,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
         
  - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
  **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li
-  *2026* Prepared
+   *International Journal of Hydrogen Energy, 2026* Prepared
 
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
   **Maoqiang Jiang***, Jingyu Zeng, Zunhua Zhang, Zhaohui Liu  
