@@ -20,7 +20,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   *2026* Prepared
 
   - **The settling of a single large particle near a wall with turbulent wakes**  
-  Xinyu Cui, Jiayuan Han, **Maoqiang Jiang*** 
+  Xinyu Cui, Jiayuan Han, **Maoqiang Jiang***
   *Physics of Fluids, 2026* Prepared
 
  - **Side-by-side settling of two large particles with turbulent wakes**  
