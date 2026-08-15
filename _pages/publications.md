@@ -70,7 +70,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   ## 2026
 
 - **Active wave turbulence in hexatic phase**  
-  Qianhong Yang, Xinxin Zhang, **Maoqiang Jiang***, ..., Lailai Zhu.  
+  Qianhong Yang, Xinxin Zhang, **Maoqiang Jiang***, ..., Lailai Zhu  
   *Physical Review Letters, 2026* 
   https://journals.aps.org/prl/accepted/10.1103/jq6g-pmq6
     
@@ -85,7 +85,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   https://doi.org/10.1063/5.0317278
 
 - **Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment**  
-  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***, Zunhua Zhang.  
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***, Zunhua Zhang  
   *International Journal of Hydrogen Energy, 2026, 236: 155055*
   https://doi.org/10.1016/j.ijhydene.2026.155055
 
