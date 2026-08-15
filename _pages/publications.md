@@ -12,47 +12,47 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 ## Under Review & Prepared
 
  - **The flow past a large ellipsoidal particle at high-Reynolds-number**  
-  **Jiang M.**, Li J., Zhang Z., Liu Z.  
+**Maoqiang Jiang***, Jiarui Li, Zunhua Zhang  
   *2026* Prepared
 
  - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
-  Tao W., **Jiang M.**
+  Wei Tao, **Maoqiang Jiang***
   *2026* Prepared
 
   - **The settling of a single large particle near a wall with turbulent wakes**  
-  Cui X., Han J., **Jiang M.*** 
+  Xinyu Cui, Jiayuan Han, **Maoqiang Jiang*** 
   *Physics of Fluids, 2026* Prepared
 
  - **Side-by-side settling of two large particles with turbulent wakes**  
-  **Jiang M.***, Yang S., Zhang Z., Liu Z.  
+  **Maoqiang Jiang***, Jiayuan Han, Sen Yang, Zunhua Zhang, Zhaohui Liu  
   *Physics of Fluids, 2026* Prepared
         
  - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
-  **Jiang M.***, Zhang D., Fan X., Li G.
+ **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li
   *2026* Prepared
 
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
-  **Jiang M.***, Zeng J., Zhang Z., Liu Z.  
+  **Maoqiang Jiang***, Jingyu Zeng, Zunhua Zhang, Zhaohui Liu  
   *Journal of Computational Physics, 2026* Prepared
 
  - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
-  Zhang D., Li G., **Jiang M.***
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***
   *International Journal of Hydrogen Energy, 2026* Prepared
 
  - **Revisiting drag force model for particle assemblies and a new model for Reynolds number up to 10000**  
-  Zeng J., Zhang Z., Liu Z., **Jiang M.***
+  Jingyu Zeng, Zunhua Zhang, Zhaohui Liu, **Maoqiang Jiang***
   *Physical Review Fludis, 2026* Under Review
 
  - **Transient settling-speed decline and nonplanar lateral motion of a freely settling sphere at high Reynolds numbers**  
-  Han J., Zeng J., Zhang Z., **Jiang M.***
+  Jiayuan Han, Jingyu Zeng, Zunhua Zhang, **Maoqiang Jiang***
   *Physical Review Fludis, 2026* Under Review
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
-  Gan X., Zhang D., **Jiang M.***
+  Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***
    *Journal of Energy Storage, 2026* Under Review
   
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
-  Li M., **Jiang M.**, ..., Liu S., Zhang Z., Li G.  
+  Minxin Li, **Maoqiang Jiang***, ..., Zunhua Zhang, Gesheng Li  
   *Applied Surface Science, 2026* Under Review
 
 - **径向非均匀层间压力对液氢罐箱变密度多层绝热结构传热性能的影响**  
@@ -70,27 +70,27 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   ## 2026
 
 - **Active wave turbulence in hexatic phase**  
-  Yang Q., Zhang X., **Jiang M.***, ..., Zhu L.  
+  Qianhong Yang, Xinxin Zhang, **Maoqiang Jiang***, ..., Lailai Zhu.  
   *Physical Review Letters, 2026* 
   https://journals.aps.org/prl/accepted/10.1103/jq6g-pmq6
     
 - **Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions**  
-  Zhang D., Li G., **Jiang M.***  
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
   *International Journal of Hydrogen Energy, 2026, 243: 155616*
   https://doi.org/10.1016/j.ijhydene.2026.155616
   
 - **Diverging transition pathways to turbulence in regular and random porous media**  
-  Wu J., Zeng J., Liu S., **Jiang M.***  
+  Jiajia Wu, Jingyu Zeng, Siyuan Liu, **Maoqiang Jiang***  
   *Physics of Fluids, 2026, 38: 043612*
   https://doi.org/10.1063/5.0317278
 
 - **Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment**  
-  Zhang D., Li G., **Jiang M.***, Zhang Z.  
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***, Zunhua Zhang.  
   *International Journal of Hydrogen Energy, 2026, 236: 155055*
   https://doi.org/10.1016/j.ijhydene.2026.155055
 
  - **Onboard carbon capture, utilization, and storage**  
-  Wu J., Zhang Y., **Jiang M.***, Cao X., Zhang Z.  
+  Jiajia Wu, Yi Zhang, **Maoqiang Jiang***, Xinkun Cao, Zunhua Zhang  
   *Cell Reports Physical Science, 2026, 7(1):103034*
   https://doi.org/10.1016/j.xcrp.2025.103034
 
