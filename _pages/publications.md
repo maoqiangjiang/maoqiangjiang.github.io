@@ -68,7 +68,8 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
     
 - **Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions**  
   Zhang D., Li G., **Jiang M.***  
-  *International Journal of Hydrogen Energy, 2026, 243: 155616*  
+  *International Journal of Hydrogen Energy, 2026, 243: 155616*
+  https://doi.org/10.1016/j.ijhydene.2026.155616
   
 - **Diverging transition pathways to turbulence in regular and random porous media**  
   Wu J., Zeng J., Liu S., **Jiang M.***  
@@ -78,14 +79,17 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 - **Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment**  
   Zhang D., Li G., **Jiang M.***, Zhang Z.  
   *International Journal of Hydrogen Energy, 2026, 236: 155055*
+  https://doi.org/10.1016/j.ijhydene.2026.155055
 
  - **Onboard carbon capture, utilization, and storage**  
   Wu J., Zhang Y., **Jiang M.***, Cao X., Zhang Z.  
   *Cell Reports Physical Science, 2026, 7(1):103034*
+  https://doi.org/10.1016/j.xcrp.2025.103034
 
   - **高压氢气泄漏扩散数值仿真模型验证研究**  
   李格升，范小禹，张丁然，**江茂强***  
   *安全与环境学报, 2026, 26(2): 736 746*
+https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac53a5127e9572e4c
 
 ---
 
