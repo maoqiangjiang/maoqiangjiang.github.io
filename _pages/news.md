@@ -16,6 +16,11 @@ PhD student Qianhong Yang's work on Active wave turbulence in hexatic phase has 
 
 ---
 
+### 📝 June 30th, 2026
+**Master Student Graduate**  
+Master students **Jiajia Wu** and **Xiaoyu Fan** got master's degree certificates. Congraduations!
+
+---
 
 ### 📝 May 26th, 2026
 **Paper published in *International Journal of Hydrogen Energy***  
