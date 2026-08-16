@@ -112,6 +112,7 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
 - **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
   Wang Y., Wu Y., Zeng Y., Jiang M.  
   *Computer Physics Communications, 2025*
+  https://doi.org/10.1016/j.cpc.2025.109674
 
 - **Energy conversion analysis for behavior transition in binary droplet collision at high Weber number**  
   Yucheng Wu, Yaning Wang, Yimin Cai, **Maoqiang Jiang**, Zhaohui Liu*  
