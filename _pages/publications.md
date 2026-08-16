@@ -103,19 +103,12 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
 
 ## 2025
 
-- **Insights into ammonia oxidation reforming over bimetallic Ni–Ru nanocatalysts for enhanced H₂ production at low exhaust temperature of marine engines**  
-  Zhang Y., Li G., Li J., et al., Jiang M.  
-  *International Journal of Hydrogen Energy, 2025*
-
+**CFD and particle-laden flows**
 - **Hydrodynamic interactions between two bubbles placed in tandem**  
   Cai Y., Gan X., Wang N., et al., Jiang M.  
   *Physics of Fluids, 2025*
 
-- **In-depth investigation of hydrogen production from methanol reforming over Cu-based catalysts**  
-  Li J., Liu A., Dong D., et al., Jiang M.  
-  *Molecular Catalysis, 2025*
-
-- **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
+  - **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
   Wang Y., Wu Y., Zeng Y., Jiang M.  
   *Computer Physics Communications, 2025*
 
@@ -123,17 +116,27 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
   Wu Y., Wang Y., Cai Y., Jiang M.  
   *Physics of Fluids, 2025*
 
-- **A direct numerical simulation study of bubble–particle hydrodynamic interactions**  
+  - **A direct numerical simulation study of bubble–particle hydrodynamic interactions**  
   Gan X., Zeng J., Cai Y., Jiang M.  
   *Physics of Fluids, 2025*
-
-- **Numerical study on transient near-field structure of high-pressure hydrogen gas leakage**  
-  Zhang D., Li G., Gan X., Jiang M.  
-  *International Journal of Hydrogen Energy, 2025*
 
 - **高长径比生物质圆柱颗粒阻力模型的直接数值模拟研究**  
   Wang J., Jiang M., Fang Q., et al.  
   *中国电机工程学报, 2025*
+
+**Hydrogen energy and safety**
+
+- **Insights into ammonia oxidation reforming over bimetallic Ni–Ru nanocatalysts for enhanced H₂ production at low exhaust temperature of marine engines**  
+  Zhang Y., Li G., Li J., et al., Jiang M.  
+  *International Journal of Hydrogen Energy, 2025*
+
+- **In-depth investigation of hydrogen production from methanol reforming over Cu-based catalysts**  
+  Li J., Liu A., Dong D., et al., Jiang M.  
+  *Molecular Catalysis, 2025*
+
+- **Numerical study on transient near-field structure of high-pressure hydrogen gas leakage**  
+  Zhang D., Li G., Gan X., Jiang M.  
+  *International Journal of Hydrogen Energy, 2025*
 
 ---
 
