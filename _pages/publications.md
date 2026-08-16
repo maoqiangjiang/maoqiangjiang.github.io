@@ -16,19 +16,19 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   *2026* Prepared
 
  - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
-  Wei Tao, **Maoqiang Jiang***
+  Wei Tao, **Maoqiang Jiang***  
   *2026* Prepared
 
   - **The settling of a single large particle near a wall with turbulent wakes**  
-  Xinyu Cui, Jiayuan Han, **Maoqiang Jiang***
+  Xinyu Cui, Jiayuan Han, **Maoqiang Jiang***  
   *Physics of Fluids, 2026* Prepared
 
  - **Side-by-side settling of two large particles with turbulent wakes**  
-  **Maoqiang Jiang***, Jiayuan Han, Sen Yang, Zunhua Zhang, Zhaohui Liu  
+  **Maoqiang Jiang***, Jiayuan Han, Sen Yang, Zunhua Zhang, Zhaohui Liu   
   *Physics of Fluids, 2026* Prepared
         
  - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
- **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li
+ **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li  
    *International Journal of Hydrogen Energy, 2026* Prepared
 
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
@@ -36,19 +36,19 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   *Journal of Computational Physics, 2026* Prepared
 
  - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
-  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
   *International Journal of Hydrogen Energy, 2026* Prepared
 
  - **Revisiting drag force model for particle assemblies and a new model for Reynolds number up to 10000**  
-  Jingyu Zeng, Zunhua Zhang, Zhaohui Liu, **Maoqiang Jiang***
+  Jingyu Zeng, Zunhua Zhang, Zhaohui Liu, **Maoqiang Jiang***  
   *Physical Review Fluids, 2026* Under Review
 
  - **Transient settling-speed decline and nonplanar lateral motion of a freely settling sphere at high Reynolds numbers**  
-  Jiayuan Han, Jingyu Zeng, Zunhua Zhang, **Maoqiang Jiang***
+  Jiayuan Han, Jingyu Zeng, Zunhua Zhang, **Maoqiang Jiang***  
   *Physical Review Fluids, 2026* Under Review
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
-  Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***
+  Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***  
  *Journal of Energy Storage, 2026* Under Review
   
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
@@ -71,32 +71,32 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 - **Active wave turbulence in hexatic phase**  
   Qianhong Yang, Xinxin Zhang, **Maoqiang Jiang**, ..., Lailai Zhu*  
-  *Physical Review Letters, 2026* 
+  *Physical Review Letters, 2026*  
   https://journals.aps.org/prl/accepted/10.1103/jq6g-pmq6
     
 - **Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions**  
   Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
-  *International Journal of Hydrogen Energy, 2026, 243: 155616*
+  *International Journal of Hydrogen Energy, 2026, 243: 155616*  
   https://doi.org/10.1016/j.ijhydene.2026.155616
   
 - **Diverging transition pathways to turbulence in regular and random porous media**  
   Jiajia Wu, Jingyu Zeng, Siyuan Liu, **Maoqiang Jiang***  
-  *Physics of Fluids, 2026, 38: 043612*
+  *Physics of Fluids, 2026, 38: 043612*  
   https://doi.org/10.1063/5.0317278
 
 - **Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment**  
   Dingran Zhang, Gesheng Li, **Maoqiang Jiang***, Zunhua Zhang  
-  *International Journal of Hydrogen Energy, 2026, 236: 155055*
+  *International Journal of Hydrogen Energy, 2026, 236: 155055*  
   https://doi.org/10.1016/j.ijhydene.2026.155055
 
  - **Onboard carbon capture, utilization, and storage**  
   Jiajia Wu, Yi Zhang, **Maoqiang Jiang***, Xinkun Cao, Zunhua Zhang  
-  *Cell Reports Physical Science, 2026, 7(1):103034*
+  *Cell Reports Physical Science, 2026, 7(1):103034*  
   https://doi.org/10.1016/j.xcrp.2025.103034
 
   - **高压氢气泄漏扩散数值仿真模型验证研究**  
   李格升，范小禹，张丁然，**江茂强***  
-  *安全与环境学报, 2026, 26(2): 736 746*
+  *安全与环境学报, 2026, 26(2): 736 746*  
 https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac53a5127e9572e4c
 
 ---
@@ -105,23 +105,23 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
 
 **CFD and particle-laden flows**
 - **Hydrodynamic interactions between two bubbles placed in tandem**  
-  Yimin Cai, Xinqin Gan, Nanye Wang, ..., **Maoqiang Jiang*** 
-  *Physics of Fluids, 2025*
+  Yimin Cai, Xinqin Gan, Nanye Wang, ..., **Maoqiang Jiang***  
+  *Physics of Fluids, 2025*  
   https://doi.org/10.1063/5.0260210
 
 - **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
   Yaning Wang, Yucheng Wu, Yadong Zeng, **Maoqiang Jiang***, Zhaohui Liu*  
-  *Computer Physics Communications, 2025*
+  *Computer Physics Communications, 2025*  
   https://doi.org/10.1016/j.cpc.2025.109674
 
 - **Energy conversion analysis for behavior transition in binary droplet collision at high Weber number**  
   Yucheng Wu, Yaning Wang, Yimin Cai, **Maoqiang Jiang**, Zhaohui Liu*  
-  *Physics of Fluids, 2025*
+  *Physics of Fluids, 2025*  
   https://doi.org/10.1063/5.0272190
 
 - **A direct numerical simulation study of bubble–particle hydrodynamic interactions**  
   Xinqin Gan, Jingyu Zeng, Yimin Cai, Zunhua Zhang, **Maoqiang Jiang***  
-  *Physics of Fluids, 2025*
+  *Physics of Fluids, 2025*  
   https://doi.org/10.1063/5.0273359
 
 - **高长径比生物质圆柱颗粒阻力模型的直接数值模拟研究**  
