@@ -11,12 +11,10 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 ## Under Review & Prepared
 
- - **The flow past a large ellipsoidal particle at high-Reynolds-number**  
-**Maoqiang Jiang***, Jiarui Li, Zunhua Zhang  
-  *2026* Prepared
+**CFD and particle-laden flows**
 
- - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
-  Wei Tao, **Maoqiang Jiang***  
+ - **The flow past a large ellipsoidal particle at high-Reynolds-number**  
+  **Maoqiang Jiang***, Jiarui Li, Zunhua Zhang  
   *2026* Prepared
 
   - **The settling of a single large particle near a wall with turbulent wakes**  
@@ -26,18 +24,10 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
  - **Side-by-side settling of two large particles with turbulent wakes**  
   **Maoqiang Jiang***, Jiayuan Han, Sen Yang, Zunhua Zhang, Zhaohui Liu   
   *Physics of Fluids, 2026* Prepared
-        
- - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
- **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li  
-   *International Journal of Hydrogen Energy, 2026* Prepared
-
+  
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
   **Maoqiang Jiang***, Jingyu Zeng, Zunhua Zhang, Zhaohui Liu  
   *Journal of Computational Physics, 2026* Prepared
-
- - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
-  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
-  *International Journal of Hydrogen Energy, 2026* Prepared
 
  - **Revisiting drag force model for particle assemblies and a new model for Reynolds number up to 10000**  
   Jingyu Zeng, Zunhua Zhang, Zhaohui Liu, **Maoqiang Jiang***  
@@ -46,6 +36,24 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
  - **Transient settling-speed decline and nonplanar lateral motion of a freely settling sphere at high Reynolds numbers**  
   Jiayuan Han, Jingyu Zeng, Zunhua Zhang, **Maoqiang Jiang***  
   *Physical Review Fluids, 2026* Under Review
+
+- **高速可压缩气固欠膨胀射流研究进展**  
+   **江茂强***  
+  *中国粉体技术, 2026, Under Review*
+
+**Hydrogen energy and safety**
+
+ - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
+  Wei Tao, **Maoqiang Jiang***  
+  *2026* Prepared
+   
+ - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
+  *International Journal of Hydrogen Energy, 2026* Prepared
+
+ - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
+   **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li  
+   *International Journal of Hydrogen Energy, 2026* Prepared
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
   Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***  
@@ -63,9 +71,6 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
    常皓翔，李格升，周梦妮，张尊华，**江茂强***  
   *安全与环境学报, 2026, Under Review*
 
-- **高速可压缩气固欠膨胀射流研究进展**  
-   **江茂强***  
-  *中国粉体技术, 2026, Under Review*
 
   ## 2026
 
