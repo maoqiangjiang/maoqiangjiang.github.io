@@ -106,6 +106,7 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
 **CFD and particle-laden flows**
 - **Hydrodynamic interactions between two bubbles placed in tandem**  
   Yimin Cai, Xinqin Gan, Nanye Wang, ..., **Maoqiang Jiang*** 
+
   *Physics of Fluids, 2025*
   https://doi.org/10.1063/5.0260210
 
