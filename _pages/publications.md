@@ -105,20 +105,23 @@ https://aqhj.cbpt.cnki.net/portal/journal/portal/client/paper/a4e7a43509fa7ccac5
 
 **CFD and particle-laden flows**
 - **Hydrodynamic interactions between two bubbles placed in tandem**  
-  Cai Y., Gan X., Wang N., et al., Jiang M.  
+  Yimin Cai, Xinqin Gan, Nanye Wang, ..., **Maoqiang Jiang*** 
   *Physics of Fluids, 2025*
+  https://doi.org/10.1063/5.0260210
 
-  - **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
+- **An immersed boundary lattice Boltzmann method on block-structured adaptive grids for particle-laden flows on CPUs/GPUs**  
   Wang Y., Wu Y., Zeng Y., Jiang M.  
   *Computer Physics Communications, 2025*
 
 - **Energy conversion analysis for behavior transition in binary droplet collision at high Weber number**  
-  Wu Y., Wang Y., Cai Y., Jiang M.  
+  Yucheng Wu, Yaning Wang, Yimin Cai, **Maoqiang Jiang**, Zhaohui Liu*  
   *Physics of Fluids, 2025*
+  https://doi.org/10.1063/5.0272190
 
-  - **A direct numerical simulation study of bubble–particle hydrodynamic interactions**  
-  Gan X., Zeng J., Cai Y., Jiang M.  
+- **A direct numerical simulation study of bubble–particle hydrodynamic interactions**  
+  Xinqin Gan, Jingyu Zeng, Yimin Cai, Zunhua Zhang, **Maoqiang Jiang***  
   *Physics of Fluids, 2025*
+  https://doi.org/10.1063/5.0273359
 
 - **高长径比生物质圆柱颗粒阻力模型的直接数值模拟研究**  
   Wang J., Jiang M., Fang Q., et al.  
