@@ -41,22 +41,6 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/XiaoyuFan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
-  <strong>Xiaoyu Fan（范小禹）</strong><br>
-  Master Student<br>
-   (2023–2026 )<br>
-  Research: Liquid hydrogen leakage
-</div>
-
-<div style="width:220px; text-align:center;">
-  <img src="/images/students/JiajiaWu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
-  <strong>Jiajia Wu（吴嘉嘉）</strong><br>
-  Master Student<br>
-   (2023–2026 )<br>
-  Research: LBM simulation of flow in porous medium 
-</div>
-
-<div style="width:220px; text-align:center;">
   <img src="/images/students/JingyuZeng.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Jingyu Zeng（曾静宇）</strong><br>
   Master Student<br>
@@ -175,8 +159,25 @@ permalink: /group/
 
 ## 🎓 Alumni（已毕业）
 
-*To be updated*
+<div style="display:flex; flex-wrap:wrap; gap:30px;">
 
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/XiaoyuFan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <strong>Xiaoyu Fan（范小禹）</strong><br>
+  Master Student<br>
+   (2023–2026 )<br>
+  Research: Liquid hydrogen leakage
+</div>
+
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/JiajiaWu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <strong>Jiajia Wu（吴嘉嘉）</strong><br>
+  Master Student<br>
+   (2023–2026 )<br>
+  Research: LBM simulation of flow in porous medium 
+</div>
+
+</div>
 ---
 
 ## 🤝 Join Us
