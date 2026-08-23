@@ -166,7 +166,7 @@ permalink: /group/
   <strong>Xiaoyu Fan（范小禹）</strong><br>
   Master Student<br>
    (2023–2026 )<br>
-  Research: Liquid hydrogen leakage
+  Research: Liquid hydrogen leakage  
   去向：吉利汽车集团
 </div>
 
@@ -175,7 +175,7 @@ permalink: /group/
   <strong>Jiajia Wu（吴嘉嘉）</strong><br>
   Master Student<br>
    (2023–2026 )<br>
-  Research: LBM simulation of flow in porous medium 
+  Research: LBM simulation of flow in porous medium  
   去向：澳大利亚蒙纳士大学攻读博士学位
 </div>
 
