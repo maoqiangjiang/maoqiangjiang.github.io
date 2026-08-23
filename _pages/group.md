@@ -167,6 +167,7 @@ permalink: /group/
   Master Student<br>
    (2023–2026 )<br>
   Research: Liquid hydrogen leakage
+  去向：吉利汽车集团
 </div>
 
 <div style="width:220px; text-align:center;">
@@ -175,6 +176,7 @@ permalink: /group/
   Master Student<br>
    (2023–2026 )<br>
   Research: LBM simulation of flow in porous medium 
+  去向：澳大利亚蒙纳士大学攻读博士学位
 </div>
 
 </div>
