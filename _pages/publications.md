@@ -45,27 +45,31 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
  - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
   Wei Tao, **Maoqiang Jiang***  
-  *2026* Prepared
+  *2026* Prepared  
+
+ - **Experimental Study on the Characteristics of Hydrogen Leakage and Diffusion in Confined Spaces of Ship Engine Rooms**  
+  Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
+  *International Journal of Hydrogen Energy, 2026* Under Review   
    
  - **Hydrogen Flame Behavior and Overpressure Characteristics in Ship Cabins**  
   Dingran Zhang, Gesheng Li, **Maoqiang Jiang***  
-  *International Journal of Hydrogen Energy, 2026* Prepared
+  *International Journal of Hydrogen Energy, 2026* Under Review  
 
  - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
    **Maoqiang Jiang***, Dingran Zhang, Xiaoyu Fan, Gesheng Li  
-   *International Journal of Hydrogen Energy, 2026* Prepared
+   *International Journal of Hydrogen Energy, 2026* Prepared  
 
  - **Leakage behavior and self-similarity of underexpanded hydrogen jets from cryogenic to high-temperature conditions**  
   Xinqin Gan, Dingran Zhang, **Maoqiang Jiang***  
- *Journal of Energy Storage, 2026* Under Review
+ *Journal of Energy Storage, 2026* Under Review  
   
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
-  Minxin Li, **Maoqiang Jiang***, ..., Zunhua Zhang, Gesheng Li  
-  *Applied Surface Science, 2026* Under Review
+  Minxin Li, **Maoqiang Jiang**, ..., Zunhua Zhang, Gesheng Li  
+  *Applied Surface Science, 2026* In Press  
 
 - **径向非均匀层间压力对液氢罐箱变密度多层绝热结构传热性能的影响**  
    万林峰，周梦妮，**江茂强***  
-  *压力容器, 2026, Under Review*
+  *压力容器, 2026, Prepared*
 
 - **舱室内大规模锂离子电池火灾特性的数值模拟研究**  
    常皓翔，李格升，周梦妮，张尊华，**江茂强***  
