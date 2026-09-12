@@ -61,7 +61,7 @@ permalink: /group/
   <strong>Jiangyuan Han（韩家源）</strong><br>
   Master Student<br>
    (2025–2028 )<br>
-  Research: Settling of large particles by LBM simulation
+  Research: Drag force of flow past non-spherical particles by LBM simulation
 </div>
 
 <div style="width:220px; text-align:center;">
@@ -69,7 +69,7 @@ permalink: /group/
   <strong>Siyuan Liu（刘思源）</strong><br>
   Master Student<br>
    (2025–2028 )<br>
-  Research: Support structure for liquid hydrogen tank 
+  Research: CFD simulation of liquid hydrogen sloshing in tank container at ocean transportation
 </div>
 
 <div style="width:220px; text-align:center;">
