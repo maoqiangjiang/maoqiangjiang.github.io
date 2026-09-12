@@ -10,6 +10,14 @@ permalink: /news/
 
 ## 2026
 
+### 📝 September 12nd, 2026
+**Paper published in *Applied Surface Science***  
+Ms student Minxin Li's work on "Hydrogen and water effects on carbon adsorption, migration, and dimer formation on Cu and Ni surfaces: insights into graphene growth mechanisms" has been published. Congraduations!
+
+---
+
+## 2026
+
 ### 📝 August 4th, 2026
 **Paper published in *Physical Review Letters***  
 PhD student Qianhong Yang's work on Active wave turbulence in hexatic phase has been published. Congraduations!
