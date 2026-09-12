@@ -85,7 +85,7 @@ permalink: /group/
   <strong>Xinyu Cui（崔新宇）</strong><br>
   Master Student<br>
    (2026–2029 )<br>
-  Research: Settling of large particles by LBM simulation
+  Research: Drag force of flow past flake shaped particles by LBM simulation
 </div>
 
 <div style="width:220px; text-align:center;">
@@ -94,6 +94,22 @@ permalink: /group/
   Master Student<br>
    (2026–2029 )<br>
   Research: Insulation of liquid hydrogen tank container
+</div>
+
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <strong>Hao Lou（楼昊）</strong><br>
+  Master Student<br>
+   (2026–2029 )<br>
+  Research: CFD-DEM of hydraulic lifting of non-spherical particle transport in pipelines
+</div>
+
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <strong>Zhicheng Mao（毛志成）</strong><br>
+  Master Student<br>
+   (2026–2029 )<br>
+  Research: CFD-DEM of hydraulic lifting of flake shaped particles transport in pipelines
 </div>
 
 </div>
